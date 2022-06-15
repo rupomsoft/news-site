@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100.302" height="37.907" viewBox="0 0 100.302 37.907">
+    <g id="Group_3" data-name="Group 3" transform="translate(-1712 -24)">
+        <path id="Path_2" data-name="Path 2" d="M1712.761,24.689h49.572l-10.1,26.533h-39.476Z" fill="#217346"/>
+        <text id="QR_ASISTA" data-name="QR ASISTA" transform="translate(1714.151 59.907)" fill="#535353" font-size="7" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Ecommerce Admin Dashboard</tspan></text>
+        <g id="Rectangle_1" data-name="Rectangle 1" transform="translate(1712 24)" fill="none" stroke="#217346" stroke-width="1">
+            <rect width="100.302" height="27.907" stroke="none"/>
+            <rect x="0.5" y="0.5" width="99.302" height="26.907" fill="none"/>
+        </g>
+        <text id="QR_ASISTA-2" data-name="QR ASISTA" transform="translate(1718 44)" fill="#fff" font-size="19" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="0">TOP </tspan><tspan y="0" fill="#217346">GEAR</tspan></text>
+    </g>
+</svg>

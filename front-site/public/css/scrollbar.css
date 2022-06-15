@@ -1,0 +1,19 @@
+
+.modal{
+    scrollbar-color: #F5F5F5 #F5F5F5;
+    scrollbar-width: thin;
+}
+
+.modal::-webkit-scrollbar {
+    width: 10px;
+    height: 10px;
+}
+.modal::-webkit-scrollbar-track-piece  {
+    background-color: #F5F5F5;
+}
+.modal::-webkit-scrollbar-thumb:vertical {
+    height: 30px;
+    border-radius: 4px;
+    background: #217346;
+}
+
